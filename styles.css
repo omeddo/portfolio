@@ -53,9 +53,9 @@ padding: 0.1em;
 
 /* hero */
 .welcome-section {
-    background: url('https://images.pexels.com/photos/5198239/pexels-photo-5198239.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500') no-repeat fixed center;
-    background-size: initial;
-    height: 70vh;
+    background: url('assets/IMG_1858\ 2.JPG') no-repeat fixed center;   
+    background-size: 30%;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
